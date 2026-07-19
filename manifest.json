@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T15:26:32.541Z",
+  "generated_at": "2026-07-19T16:55:13.963Z",
   "entries": [
     {
       "book_id": "jami_tirmidhi",
       "language": "ar",
       "hadith_count": 3924,
       "source": "ara-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:29.933Z",
+      "updated_at": "2026-07-19T16:55:11.250Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -17,7 +17,7 @@
       "language": "bn",
       "hadith_count": 3895,
       "source": "ben-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:30.651Z",
+      "updated_at": "2026-07-19T16:55:12.061Z",
       "version": 1,
       "completeness_ratio": 0.993,
       "is_partial": false
@@ -27,7 +27,7 @@
       "language": "en",
       "hadith_count": 3926,
       "source": "eng-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:30.023Z",
+      "updated_at": "2026-07-19T16:55:11.352Z",
       "version": 1,
       "completeness_ratio": 1.001,
       "is_partial": false
@@ -37,7 +37,7 @@
       "language": "id",
       "hadith_count": 3540,
       "source": "ind-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:30.411Z",
+      "updated_at": "2026-07-19T16:55:11.805Z",
       "version": 1,
       "completeness_ratio": 0.902,
       "is_partial": false
@@ -47,7 +47,7 @@
       "language": "tr",
       "hadith_count": 3769,
       "source": "tur-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:30.297Z",
+      "updated_at": "2026-07-19T16:55:11.668Z",
       "version": 1,
       "completeness_ratio": 0.96,
       "is_partial": false
@@ -57,7 +57,7 @@
       "language": "ur",
       "hadith_count": 3931,
       "source": "urd-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:30.174Z",
+      "updated_at": "2026-07-19T16:55:11.534Z",
       "version": 1,
       "completeness_ratio": 1.002,
       "is_partial": false
@@ -67,7 +67,7 @@
       "language": "ar",
       "hadith_count": 7360,
       "source": "ara-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:26.514Z",
+      "updated_at": "2026-07-19T16:55:07.573Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -77,7 +77,7 @@
       "language": "bn",
       "hadith_count": 7360,
       "source": "ben-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:28.122Z",
+      "updated_at": "2026-07-19T16:55:08.994Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -87,7 +87,7 @@
       "language": "en",
       "hadith_count": 7360,
       "source": "eng-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:26.646Z",
+      "updated_at": "2026-07-19T16:55:07.864Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -97,7 +97,7 @@
       "language": "fr",
       "hadith_count": 7307,
       "source": "fra-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:28.329Z",
+      "updated_at": "2026-07-19T16:55:09.232Z",
       "version": 1,
       "completeness_ratio": 0.993,
       "is_partial": false
@@ -107,7 +107,7 @@
       "language": "id",
       "hadith_count": 4927,
       "source": "ind-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:27.364Z",
+      "updated_at": "2026-07-19T16:55:08.614Z",
       "version": 1,
       "completeness_ratio": 0.669,
       "is_partial": false
@@ -117,7 +117,7 @@
       "language": "ru",
       "hadith_count": 2719,
       "source": "rus-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:28.449Z",
+      "updated_at": "2026-07-19T16:55:09.384Z",
       "version": 1,
       "completeness_ratio": 0.369,
       "is_partial": true
@@ -127,7 +127,7 @@
       "language": "tr",
       "hadith_count": 7380,
       "source": "tur-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:27.149Z",
+      "updated_at": "2026-07-19T16:55:08.414Z",
       "version": 1,
       "completeness_ratio": 1.003,
       "is_partial": false
@@ -137,7 +137,7 @@
       "language": "ur",
       "hadith_count": 7459,
       "source": "urd-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:26.913Z",
+      "updated_at": "2026-07-19T16:55:08.156Z",
       "version": 1,
       "completeness_ratio": 1.013,
       "is_partial": false
@@ -147,7 +147,7 @@
       "language": "ar",
       "hadith_count": 5272,
       "source": "ara-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:28.673Z",
+      "updated_at": "2026-07-19T16:55:09.718Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -157,7 +157,7 @@
       "language": "bn",
       "hadith_count": 5270,
       "source": "ben-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:29.483Z",
+      "updated_at": "2026-07-19T16:55:10.739Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -167,7 +167,7 @@
       "language": "en",
       "hadith_count": 5272,
       "source": "eng-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:28.810Z",
+      "updated_at": "2026-07-19T16:55:09.932Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -177,7 +177,7 @@
       "language": "fr",
       "hadith_count": 5274,
       "source": "fra-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:29.612Z",
+      "updated_at": "2026-07-19T16:55:10.887Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -187,7 +187,7 @@
       "language": "id",
       "hadith_count": 4406,
       "source": "ind-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:29.275Z",
+      "updated_at": "2026-07-19T16:55:10.513Z",
       "version": 1,
       "completeness_ratio": 0.836,
       "is_partial": false
@@ -197,7 +197,7 @@
       "language": "ru",
       "hadith_count": 4602,
       "source": "rus-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:29.741Z",
+      "updated_at": "2026-07-19T16:55:11.040Z",
       "version": 1,
       "completeness_ratio": 0.873,
       "is_partial": false
@@ -207,7 +207,7 @@
       "language": "tr",
       "hadith_count": 5266,
       "source": "tur-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:29.127Z",
+      "updated_at": "2026-07-19T16:55:10.347Z",
       "version": 1,
       "completeness_ratio": 0.999,
       "is_partial": false
@@ -217,7 +217,7 @@
       "language": "ur",
       "hadith_count": 5273,
       "source": "urd-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:28.978Z",
+      "updated_at": "2026-07-19T16:55:10.164Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -227,7 +227,7 @@
       "language": "ar",
       "hadith_count": 4338,
       "source": "ara-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.857Z",
+      "updated_at": "2026-07-19T16:55:13.249Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -237,7 +237,7 @@
       "language": "bn",
       "hadith_count": 4336,
       "source": "ben-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:32.447Z",
+      "updated_at": "2026-07-19T16:55:13.860Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -247,7 +247,7 @@
       "language": "en",
       "hadith_count": 4340,
       "source": "eng-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.946Z",
+      "updated_at": "2026-07-19T16:55:13.346Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -257,7 +257,7 @@
       "language": "fr",
       "hadith_count": 4340,
       "source": "fra-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:32.541Z",
+      "updated_at": "2026-07-19T16:55:13.963Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -267,7 +267,7 @@
       "language": "id",
       "hadith_count": 4269,
       "source": "ind-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:32.316Z",
+      "updated_at": "2026-07-19T16:55:13.727Z",
       "version": 1,
       "completeness_ratio": 0.984,
       "is_partial": false
@@ -277,7 +277,7 @@
       "language": "tr",
       "hadith_count": 4319,
       "source": "tur-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:32.204Z",
+      "updated_at": "2026-07-19T16:55:13.608Z",
       "version": 1,
       "completeness_ratio": 0.996,
       "is_partial": false
@@ -287,7 +287,7 @@
       "language": "ur",
       "hadith_count": 4329,
       "source": "urd-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:32.054Z",
+      "updated_at": "2026-07-19T16:55:13.458Z",
       "version": 1,
       "completeness_ratio": 0.998,
       "is_partial": false
@@ -297,7 +297,7 @@
       "language": "ar",
       "hadith_count": 5679,
       "source": "ara-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:30.960Z",
+      "updated_at": "2026-07-19T16:55:12.268Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -307,7 +307,7 @@
       "language": "bn",
       "hadith_count": 5656,
       "source": "ben-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.602Z",
+      "updated_at": "2026-07-19T16:55:12.974Z",
       "version": 1,
       "completeness_ratio": 0.996,
       "is_partial": false
@@ -317,7 +317,7 @@
       "language": "en",
       "hadith_count": 5679,
       "source": "eng-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.068Z",
+      "updated_at": "2026-07-19T16:55:12.398Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -327,7 +327,7 @@
       "language": "fr",
       "hadith_count": 5679,
       "source": "fra-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.721Z",
+      "updated_at": "2026-07-19T16:55:13.106Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
@@ -337,7 +337,7 @@
       "language": "id",
       "hadith_count": 5335,
       "source": "ind-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.383Z",
+      "updated_at": "2026-07-19T16:55:12.731Z",
       "version": 1,
       "completeness_ratio": 0.939,
       "is_partial": false
@@ -347,7 +347,7 @@
       "language": "tr",
       "hadith_count": 629,
       "source": "tur-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.247Z",
+      "updated_at": "2026-07-19T16:55:12.589Z",
       "version": 1,
       "completeness_ratio": 0.111,
       "is_partial": true
@@ -357,7 +357,7 @@
       "language": "ur",
       "hadith_count": 3874,
       "source": "urd-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:26:31.190Z",
+      "updated_at": "2026-07-19T16:55:12.527Z",
       "version": 1,
       "completeness_ratio": 0.682,
       "is_partial": false
