@@ -1,5 +1,294 @@
 {
   "schema_version": 1,
-  "generated_at": null,
-  "entries": []
+  "generated_at": "2026-07-19T15:08:09.305Z",
+  "entries": [
+    {
+      "book_id": "abudawud",
+      "language": "ar",
+      "hadith_count": 5272,
+      "source": "ara-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:43.536Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "bn",
+      "hadith_count": 5270,
+      "source": "ben-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:46.597Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "en",
+      "hadith_count": 5272,
+      "source": "eng-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:43.860Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "fr",
+      "hadith_count": 5274,
+      "source": "fra-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:47.718Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "id",
+      "hadith_count": 4406,
+      "source": "ind-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:46.027Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "ru",
+      "hadith_count": 4602,
+      "source": "rus-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:47.985Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "tr",
+      "hadith_count": 5266,
+      "source": "tur-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:44.411Z",
+      "version": 1
+    },
+    {
+      "book_id": "abudawud",
+      "language": "ur",
+      "hadith_count": 5273,
+      "source": "urd-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:44.139Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "ar",
+      "hadith_count": 4338,
+      "source": "ara-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:04.552Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "bn",
+      "hadith_count": 4336,
+      "source": "ben-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:09.078Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "en",
+      "hadith_count": 4340,
+      "source": "eng-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:04.857Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "fr",
+      "hadith_count": 4340,
+      "source": "fra-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:09.305Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "id",
+      "hadith_count": 4269,
+      "source": "ind-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:07.709Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "tr",
+      "hadith_count": 4319,
+      "source": "tur-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:05.618Z",
+      "version": 1
+    },
+    {
+      "book_id": "ibnmajah",
+      "language": "ur",
+      "hadith_count": 4329,
+      "source": "urd-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:05.242Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "ar",
+      "hadith_count": 7360,
+      "source": "ara-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:34.172Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "bn",
+      "hadith_count": 7360,
+      "source": "ben-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:39.786Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "en",
+      "hadith_count": 7360,
+      "source": "eng-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:34.569Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "fr",
+      "hadith_count": 7307,
+      "source": "fra-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:42.689Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "id",
+      "hadith_count": 4927,
+      "source": "ind-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:38.592Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "ru",
+      "hadith_count": 2719,
+      "source": "rus-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:43.216Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "tr",
+      "hadith_count": 7380,
+      "source": "tur-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:37.241Z",
+      "version": 1
+    },
+    {
+      "book_id": "muslim",
+      "language": "ur",
+      "hadith_count": 7459,
+      "source": "urd-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:35.123Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "ar",
+      "hadith_count": 5679,
+      "source": "ara-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:54.923Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "bn",
+      "hadith_count": 5656,
+      "source": "ben-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:01.231Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "en",
+      "hadith_count": 5679,
+      "source": "eng-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:55.195Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "fr",
+      "hadith_count": 5679,
+      "source": "fra-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:08:04.055Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "id",
+      "hadith_count": 5335,
+      "source": "ind-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:58.769Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "tr",
+      "hadith_count": 629,
+      "source": "tur-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:56.157Z",
+      "version": 1
+    },
+    {
+      "book_id": "nasai",
+      "language": "ur",
+      "hadith_count": 3874,
+      "source": "urd-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:55.468Z",
+      "version": 1
+    },
+    {
+      "book_id": "tirmidhi",
+      "language": "ar",
+      "hadith_count": 3924,
+      "source": "ara-tirmidhi (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:48.280Z",
+      "version": 1
+    },
+    {
+      "book_id": "tirmidhi",
+      "language": "bn",
+      "hadith_count": 3895,
+      "source": "ben-tirmidhi (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:54.630Z",
+      "version": 1
+    },
+    {
+      "book_id": "tirmidhi",
+      "language": "en",
+      "hadith_count": 3926,
+      "source": "eng-tirmidhi (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:48.498Z",
+      "version": 1
+    },
+    {
+      "book_id": "tirmidhi",
+      "language": "id",
+      "hadith_count": 3540,
+      "source": "ind-tirmidhi (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:52.978Z",
+      "version": 1
+    },
+    {
+      "book_id": "tirmidhi",
+      "language": "tr",
+      "hadith_count": 3769,
+      "source": "tur-tirmidhi (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:50.828Z",
+      "version": 1
+    },
+    {
+      "book_id": "tirmidhi",
+      "language": "ur",
+      "hadith_count": 3931,
+      "source": "urd-tirmidhi (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:07:48.810Z",
+      "version": 1
+    }
+  ]
 }
