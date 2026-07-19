@@ -1,365 +1,365 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T15:18:53.199Z",
+  "generated_at": "2026-07-19T15:26:32.541Z",
   "entries": [
     {
-      "book_id": "abudawud",
-      "language": "ar",
-      "hadith_count": 5272,
-      "source": "ara-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:43.536Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "bn",
-      "hadith_count": 5270,
-      "source": "ben-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:46.597Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "en",
-      "hadith_count": 5272,
-      "source": "eng-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:43.860Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "fr",
-      "hadith_count": 5274,
-      "source": "fra-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:47.718Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "id",
-      "hadith_count": 4406,
-      "source": "ind-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:46.027Z",
-      "version": 1,
-      "completeness_ratio": 0.836,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "ru",
-      "hadith_count": 4602,
-      "source": "rus-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:47.985Z",
-      "version": 1,
-      "completeness_ratio": 0.873,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "tr",
-      "hadith_count": 5266,
-      "source": "tur-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:44.411Z",
-      "version": 1,
-      "completeness_ratio": 0.999,
-      "is_partial": false
-    },
-    {
-      "book_id": "abudawud",
-      "language": "ur",
-      "hadith_count": 5273,
-      "source": "urd-abudawud (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:44.139Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "ar",
-      "hadith_count": 4338,
-      "source": "ara-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:04.552Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "bn",
-      "hadith_count": 4336,
-      "source": "ben-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:09.078Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "en",
-      "hadith_count": 4340,
-      "source": "eng-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:04.857Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "fr",
-      "hadith_count": 4340,
-      "source": "fra-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:09.305Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "id",
-      "hadith_count": 4269,
-      "source": "ind-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:07.709Z",
-      "version": 1,
-      "completeness_ratio": 0.984,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "tr",
-      "hadith_count": 4319,
-      "source": "tur-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:05.618Z",
-      "version": 1,
-      "completeness_ratio": 0.996,
-      "is_partial": false
-    },
-    {
-      "book_id": "ibnmajah",
-      "language": "ur",
-      "hadith_count": 4329,
-      "source": "urd-ibnmajah (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:05.242Z",
-      "version": 1,
-      "completeness_ratio": 0.998,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "ar",
-      "hadith_count": 7360,
-      "source": "ara-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:34.172Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "bn",
-      "hadith_count": 7360,
-      "source": "ben-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:39.786Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "en",
-      "hadith_count": 7360,
-      "source": "eng-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:34.569Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "fr",
-      "hadith_count": 7307,
-      "source": "fra-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:42.689Z",
-      "version": 1,
-      "completeness_ratio": 0.993,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "id",
-      "hadith_count": 4927,
-      "source": "ind-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:38.592Z",
-      "version": 1,
-      "completeness_ratio": 0.669,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "ru",
-      "hadith_count": 2719,
-      "source": "rus-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:43.216Z",
-      "version": 1,
-      "completeness_ratio": 0.369,
-      "is_partial": true
-    },
-    {
-      "book_id": "muslim",
-      "language": "tr",
-      "hadith_count": 7380,
-      "source": "tur-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:37.241Z",
-      "version": 1,
-      "completeness_ratio": 1.003,
-      "is_partial": false
-    },
-    {
-      "book_id": "muslim",
-      "language": "ur",
-      "hadith_count": 7459,
-      "source": "urd-muslim (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:35.123Z",
-      "version": 1,
-      "completeness_ratio": 1.013,
-      "is_partial": false
-    },
-    {
-      "book_id": "nasai",
-      "language": "ar",
-      "hadith_count": 5679,
-      "source": "ara-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:54.923Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "nasai",
-      "language": "bn",
-      "hadith_count": 5656,
-      "source": "ben-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:01.231Z",
-      "version": 1,
-      "completeness_ratio": 0.996,
-      "is_partial": false
-    },
-    {
-      "book_id": "nasai",
-      "language": "en",
-      "hadith_count": 5679,
-      "source": "eng-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:55.195Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "nasai",
-      "language": "fr",
-      "hadith_count": 5679,
-      "source": "fra-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:08:04.055Z",
-      "version": 1,
-      "completeness_ratio": 1,
-      "is_partial": false
-    },
-    {
-      "book_id": "nasai",
-      "language": "id",
-      "hadith_count": 5335,
-      "source": "ind-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:58.769Z",
-      "version": 1,
-      "completeness_ratio": 0.939,
-      "is_partial": false
-    },
-    {
-      "book_id": "nasai",
-      "language": "tr",
-      "hadith_count": 629,
-      "source": "tur-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:56.157Z",
-      "version": 1,
-      "completeness_ratio": 0.111,
-      "is_partial": true
-    },
-    {
-      "book_id": "nasai",
-      "language": "ur",
-      "hadith_count": 3874,
-      "source": "urd-nasai (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:55.468Z",
-      "version": 1,
-      "completeness_ratio": 0.682,
-      "is_partial": false
-    },
-    {
-      "book_id": "tirmidhi",
+      "book_id": "jami_tirmidhi",
       "language": "ar",
       "hadith_count": 3924,
       "source": "ara-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:48.280Z",
+      "updated_at": "2026-07-19T15:26:29.933Z",
       "version": 1,
       "completeness_ratio": 1,
       "is_partial": false
     },
     {
-      "book_id": "tirmidhi",
+      "book_id": "jami_tirmidhi",
       "language": "bn",
       "hadith_count": 3895,
       "source": "ben-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:54.630Z",
+      "updated_at": "2026-07-19T15:26:30.651Z",
       "version": 1,
       "completeness_ratio": 0.993,
       "is_partial": false
     },
     {
-      "book_id": "tirmidhi",
+      "book_id": "jami_tirmidhi",
       "language": "en",
       "hadith_count": 3926,
       "source": "eng-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:48.498Z",
+      "updated_at": "2026-07-19T15:26:30.023Z",
       "version": 1,
       "completeness_ratio": 1.001,
       "is_partial": false
     },
     {
-      "book_id": "tirmidhi",
+      "book_id": "jami_tirmidhi",
       "language": "id",
       "hadith_count": 3540,
       "source": "ind-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:52.978Z",
+      "updated_at": "2026-07-19T15:26:30.411Z",
       "version": 1,
       "completeness_ratio": 0.902,
       "is_partial": false
     },
     {
-      "book_id": "tirmidhi",
+      "book_id": "jami_tirmidhi",
       "language": "tr",
       "hadith_count": 3769,
       "source": "tur-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:50.828Z",
+      "updated_at": "2026-07-19T15:26:30.297Z",
       "version": 1,
       "completeness_ratio": 0.96,
       "is_partial": false
     },
     {
-      "book_id": "tirmidhi",
+      "book_id": "jami_tirmidhi",
       "language": "ur",
       "hadith_count": 3931,
       "source": "urd-tirmidhi (fawazahmed0/hadith-api mirror)",
-      "updated_at": "2026-07-19T15:07:48.810Z",
+      "updated_at": "2026-07-19T15:26:30.174Z",
       "version": 1,
       "completeness_ratio": 1.002,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "ar",
+      "hadith_count": 7360,
+      "source": "ara-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:26.514Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "bn",
+      "hadith_count": 7360,
+      "source": "ben-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:28.122Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "en",
+      "hadith_count": 7360,
+      "source": "eng-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:26.646Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "fr",
+      "hadith_count": 7307,
+      "source": "fra-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:28.329Z",
+      "version": 1,
+      "completeness_ratio": 0.993,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "id",
+      "hadith_count": 4927,
+      "source": "ind-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:27.364Z",
+      "version": 1,
+      "completeness_ratio": 0.669,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "ru",
+      "hadith_count": 2719,
+      "source": "rus-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:28.449Z",
+      "version": 1,
+      "completeness_ratio": 0.369,
+      "is_partial": true
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "tr",
+      "hadith_count": 7380,
+      "source": "tur-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:27.149Z",
+      "version": 1,
+      "completeness_ratio": 1.003,
+      "is_partial": false
+    },
+    {
+      "book_id": "sahih_muslim",
+      "language": "ur",
+      "hadith_count": 7459,
+      "source": "urd-muslim (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:26.913Z",
+      "version": 1,
+      "completeness_ratio": 1.013,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "ar",
+      "hadith_count": 5272,
+      "source": "ara-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:28.673Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "bn",
+      "hadith_count": 5270,
+      "source": "ben-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:29.483Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "en",
+      "hadith_count": 5272,
+      "source": "eng-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:28.810Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "fr",
+      "hadith_count": 5274,
+      "source": "fra-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:29.612Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "id",
+      "hadith_count": 4406,
+      "source": "ind-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:29.275Z",
+      "version": 1,
+      "completeness_ratio": 0.836,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "ru",
+      "hadith_count": 4602,
+      "source": "rus-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:29.741Z",
+      "version": 1,
+      "completeness_ratio": 0.873,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "tr",
+      "hadith_count": 5266,
+      "source": "tur-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:29.127Z",
+      "version": 1,
+      "completeness_ratio": 0.999,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_abi_dawud",
+      "language": "ur",
+      "hadith_count": 5273,
+      "source": "urd-abudawud (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:28.978Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "ar",
+      "hadith_count": 4338,
+      "source": "ara-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.857Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "bn",
+      "hadith_count": 4336,
+      "source": "ben-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:32.447Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "en",
+      "hadith_count": 4340,
+      "source": "eng-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.946Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "fr",
+      "hadith_count": 4340,
+      "source": "fra-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:32.541Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "id",
+      "hadith_count": 4269,
+      "source": "ind-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:32.316Z",
+      "version": 1,
+      "completeness_ratio": 0.984,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "tr",
+      "hadith_count": 4319,
+      "source": "tur-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:32.204Z",
+      "version": 1,
+      "completeness_ratio": 0.996,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_ibn_majah",
+      "language": "ur",
+      "hadith_count": 4329,
+      "source": "urd-ibnmajah (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:32.054Z",
+      "version": 1,
+      "completeness_ratio": 0.998,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "ar",
+      "hadith_count": 5679,
+      "source": "ara-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:30.960Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "bn",
+      "hadith_count": 5656,
+      "source": "ben-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.602Z",
+      "version": 1,
+      "completeness_ratio": 0.996,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "en",
+      "hadith_count": 5679,
+      "source": "eng-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.068Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "fr",
+      "hadith_count": 5679,
+      "source": "fra-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.721Z",
+      "version": 1,
+      "completeness_ratio": 1,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "id",
+      "hadith_count": 5335,
+      "source": "ind-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.383Z",
+      "version": 1,
+      "completeness_ratio": 0.939,
+      "is_partial": false
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "tr",
+      "hadith_count": 629,
+      "source": "tur-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.247Z",
+      "version": 1,
+      "completeness_ratio": 0.111,
+      "is_partial": true
+    },
+    {
+      "book_id": "sunan_nasai",
+      "language": "ur",
+      "hadith_count": 3874,
+      "source": "urd-nasai (fawazahmed0/hadith-api mirror)",
+      "updated_at": "2026-07-19T15:26:31.190Z",
+      "version": 1,
+      "completeness_ratio": 0.682,
       "is_partial": false
     }
   ]
